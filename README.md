@@ -11,6 +11,8 @@
 - Enkel SQL Database
 - Passord Styrkesjekk
 
+Generelt er dette en liten samling av småe kode-snippets fra VG1.
+
 ### Hvordan sette opp vær appen
 - Logg inn på https://openweathermap.org/api eller lag en konto.
 - Lag en API-key på https://home.openweathermap.org/api_keys og kopier nøkkelen
