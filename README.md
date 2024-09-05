@@ -14,7 +14,7 @@
 Generelt er dette en liten samling av småe kode-snippets fra VG1.
 
 ### Hvordan sette opp vær appen
-- Logg inn på https://openweathermap.org/api eller lag en konto.
+- Logg inn på https://openweathermap.org/api eller lag en konto hos de.
 - Lag en API-key på https://home.openweathermap.org/api_keys og kopier nøkkelen
 - Lag en .env fil i samme mappen som weather_app.py
 - I .env lag en variabel med API-Nøkkelen. Eksempel SECRET_KEY="abc123"
