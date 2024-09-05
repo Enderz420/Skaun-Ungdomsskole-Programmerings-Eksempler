@@ -1,4 +1,4 @@
-
+# basic web scraper
 from urllib.request import urlopen # import basics of urllib
 import re
 url = "http://olympus.realpython.org/profiles/dionysus" # we will use this variable to open the string
